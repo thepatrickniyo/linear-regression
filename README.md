@@ -1,6 +1,7 @@
 # Student Performance Prediction System
 
 ## Demo Video
+[https://www.youtube.com/watch?v=7vJsHLxL8HE](https://www.youtube.com/watch?v=7vJsHLxL8HE)
 
 
 ## 🎯 **Project Overview**
