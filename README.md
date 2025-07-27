@@ -1,5 +1,8 @@
 # Student Performance Prediction System
 
+## Demo Video
+
+
 ## 🎯 **Project Overview**
 A comprehensive machine learning system that predicts student academic performance using multivariate linear regression. The system combines data science, mobile development, and API design to create a practical educational tool for students, educators, and parents.
 
@@ -75,7 +78,7 @@ A comprehensive machine learning system that predicts student academic performan
 
 ## 🚀 **API Endpoints**
 
-### **Base URL:** `https://linear-regression-zpgo.onrender.com`
+### **Base URL:** `https://linear-regression-s8mw.onrender.com`
 
 ### **Endpoints:**
 - **GET /** - Welcome message and API status
